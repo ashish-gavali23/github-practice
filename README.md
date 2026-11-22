@@ -1,4 +1,4 @@
 # github-practice
-Practicing how github works
+Practicing how github repositories works
 Day 1 Of Github
 Helloo !!
